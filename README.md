@@ -1,2 +1,6 @@
 # Plataforma-1
-My "first" Unity game!
+This is my "first" Unity game!  
+
+It's a simple platform game, made for learning purposes.  
+
+
